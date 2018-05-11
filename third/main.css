@@ -1,0 +1,14 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .row {
+    height: 100px;
+    width: 100%;
+  }
+  
+  .row-big {
+    height: 200px;
+    width: 100%;
+  }
